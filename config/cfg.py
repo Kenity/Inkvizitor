@@ -1,3 +1,3 @@
 setting = {
-	'token': "MTA5MjM4NTgxODAwMzM5NDYzMQ.GEm0fm.UnMWOc_xCqzVEcWB451fHHjf-oTEfUQWXnFCL4"
+	'token': "MTA5MjM4NTgxODAwMzM5NDYzMQ.GHhaT-.7z7bBLJuQ1Kdt7cyaKGLqz2ePMOj1OrrknWW5c"
 }
